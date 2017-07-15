@@ -115,6 +115,10 @@
 
 # Appendix
 
+## How to contribute
+
+Your participations is needed! To contribute your ideas, you can either [open an issue or comment on existing ones](https://github.com/floledermann/bok-modern-cartography/issues), [edit](https://github.com/floledermann/bok-modern-cartography/edit/master/README.md) or fork this repository and submit a [pull request](https://github.com/floledermann/bok-modern-cartography/compare) with your changes, or post a link (as an [issue](https://github.com/floledermann/bok-modern-cartography/issues)) to your own version of a cartography BoK.
+
 ## Links
 
 [GIS&T Body of Knowledge, Knowledge Area Cartography](http://gistbok.ucgis.org/all-topics?term_node_tid_depth=97)
