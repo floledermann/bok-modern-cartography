@@ -12,7 +12,7 @@
 "A body of knowledge is the accepted ontology for a specific domain." [[Wikipedia]](https://en.wikipedia.org/wiki/Body_of_knowledge) - so more work on refining the formal aspects may be needed!
 
 
-# Contents
+# :globe_with_meridians: Contents
 
 
 ## Theoretical Underpinnings
@@ -109,9 +109,9 @@
 ## Links
 
 [GIS&T Body of Knowledge, Knowledge Area Cartography](http://gistbok.ucgis.org/all-topics?term_node_tid_depth=97)
+
 [List of ICA Commissions](http://icaci.org/commissions/)
 
 ----
 
-(c) 2017 Florian Ledermann [@floledermann](http://twitter.com/floledermann) / TU Wien FB Kartographie
-Creative Commons CC-BY
+[![License: CC BY 4.0](https://licensebuttons.net/l/by/4.0/80x15.png)](https://creativecommons.org/licenses/by/4.0/) 2017 Florian Ledermann [@floledermann](http://twitter.com/floledermann) / TU Wien FB Kartographie
