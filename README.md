@@ -3,7 +3,7 @@
 
 ## Preface / Guidelines
 
-- Not a curriculum (but potential basis)
+- Not a curriculum (but potential basis for curriculum development)
 - No 1:1 mapping of ICA commissions, GIS&T BoK etc. (although informed by these)
 - Entries are not of equal importance & volume, but should identify distinct topics
 - Should identify core and related fields, linking to other disciplines / BOKs
@@ -44,6 +44,7 @@
 
 ## Cartographic Transformations
 
+- Map Projections
 - Generalisation Foundations
 - Digital Generalisation
 - Classification, Value Scales
@@ -67,6 +68,7 @@
 ## Media Technology for Cartography
 
 - Visual Media Technologies (Print & Digital Output Media)
+- Foundations of Computer-Generated Graphical Output
 - Web Cartography
 - Mobile & Uniquitous Cartography
 - Sensors & Location Based Services
