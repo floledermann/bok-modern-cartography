@@ -118,8 +118,8 @@
 
 ## Contributors
 
-- Florian Ledermann florian.ledermann@tuwien.ac.at [@floledermann](http://twitter.com/floledermann)
+- Florian Ledermann florian.ledermann@tuwien.ac.at [@floledermann](http://twitter.com/floledermann) / TU Wien FB Kartographie
 
 ----
 
-[![License: CC BY 4.0](https://licensebuttons.net/l/by/4.0/80x15.png)](https://creativecommons.org/licenses/by/4.0/) 2017 Florian Ledermann [@floledermann](http://twitter.com/floledermann) / TU Wien FB Kartographie & Contributors
+[![License: CC BY 4.0](https://licensebuttons.net/l/by/4.0/80x15.png)](https://creativecommons.org/licenses/by/4.0/) 2017 [Florian Ledermann](http://twitter.com/floledermann) & [Contributors](#contributors)
