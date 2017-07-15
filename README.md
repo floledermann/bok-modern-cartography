@@ -8,6 +8,7 @@
 - Entries are not of equal importance & volume, but should identify distinct topics
 - Should identify core and related fields, linking to other disciplines / BOKs
 - Each field should focus on aspects of the *digital*
+- For the start, tend to include more and later on identify topics from other disciplines which are prerequisites for but not core of cartography
 
 "A body of knowledge is the accepted ontology for a specific domain." [[Wikipedia]](https://en.wikipedia.org/wiki/Body_of_knowledge) - so more work on refining the formal aspects may be needed!
 
@@ -57,7 +58,7 @@
 ## Map Design
 
 - Cognitive Foundations of Map Perception
-- [Design Basics: Color, Typography, Grids, Visual Hierarchy]
+- Design Basics: Color, Typography, Grids, Visual Hierarchy
 - Map Layout, Legends & Perimap Design
 - Topographic Maps, Mountain Cartography & Marine Cartography
 - Planetary Cartography
