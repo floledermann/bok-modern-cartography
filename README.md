@@ -21,6 +21,7 @@
 - Theories of Space & Spatial Representations
 - Spatial Cognition
 - History of Cartography & Cartographic Heritage
+- Cartographic Paradigms & Theories
 - Maps & Power / Critical Cartography
   - Gender, Race, Underrepresented Groups & Cartography
 
