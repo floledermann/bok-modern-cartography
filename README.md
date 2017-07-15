@@ -8,7 +8,7 @@
 - Entries are not of equal importance & volume, but should identify distinct topics
 - Should identify core and related fields, linking to other disciplines / BOKs
 - Each field should focus on aspects of the *digital*
-- For the start, tend to include more and later on identify topics from other disciplines which are prerequisites for but not core of cartography
+- For the start, tend to include more and in a flat hierarchy - later on, identify nesting and related topics from other disciplines which are prerequisites for but not core of cartography
 
 "A body of knowledge is the accepted ontology for a specific domain." [[Wikipedia]](https://en.wikipedia.org/wiki/Body_of_knowledge) - so more work on refining the formal aspects may be needed!
 
@@ -84,12 +84,14 @@
 - Geovisualization & Geovisual Analytics
 - Digital Atlases
 - Storytelling & Narrative Maps
+- Context-Sensitive Cartography
 
 
 ## Map Use & Applications
 
 - User-Centered Design
 - Map Use & User Studies
+- Sketch Maps, Mental Maps
 - Maps in Crisis Management
 - Military Cartography
 
@@ -103,7 +105,7 @@
 - Cartographic Institutions
 
 
-## Cartography & Education
+## Cartography Outreach & Education
 
 - Cartography and Children
 - Cartographic Education Worldwide
