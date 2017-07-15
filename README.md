@@ -11,6 +11,7 @@
 
 "A body of knowledge is the accepted ontology for a specific domain." [[Wikipedia]](https://en.wikipedia.org/wiki/Body_of_knowledge) - so more work on refining the formal aspects may be needed!
 
+----
 
 # :globe_with_meridians: Contents
 
@@ -18,6 +19,7 @@
 ## Theoretical Underpinnings
 
 - Theories of Space & Spatial Representations
+- Spatial Cognition
 - History of Cartography & Cartographic Heritage
 - Maps & Power / Critical Cartography
   - Gender, Race, Underrepresented Groups & Cartography
@@ -103,6 +105,7 @@
 - Cartographic Education Worldwide
 - Cartography & Other Disciplines
 
+----
 
 # Appendix
 
@@ -112,6 +115,10 @@
 
 [List of ICA Commissions](http://icaci.org/commissions/)
 
+## Contributors
+
+- Florian Ledermann florian.ledermann@tuwien.ac.at [@floledermann](http://twitter.com/floledermann)
+
 ----
 
-[![License: CC BY 4.0](https://licensebuttons.net/l/by/4.0/80x15.png)](https://creativecommons.org/licenses/by/4.0/) 2017 Florian Ledermann [@floledermann](http://twitter.com/floledermann) / TU Wien FB Kartographie
+[![License: CC BY 4.0](https://licensebuttons.net/l/by/4.0/80x15.png)](https://creativecommons.org/licenses/by/4.0/) 2017 Florian Ledermann [@floledermann](http://twitter.com/floledermann) / TU Wien FB Kartographie & Contributors
