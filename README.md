@@ -118,7 +118,9 @@
 
 ## Contributors
 
-- Florian Ledermann :envelope: florian.ledermann@tuwien.ac.at [![Twitter:](http://i.imgur.com/wWzX9uB.png)] [@floledermann](http://twitter.com/floledermann) / [TU Wien FB Kartographie](http://cartography.tuwien.ac.at/)
+Name | Email | Twitter | Institution
+---  |---    |---      |---
+Florian Ledermann | florian.ledermann@tuwien.ac.at | [@floledermann](http://twitter.com/floledermann) | [TU Wien FB Kartographie](http://cartography.tuwien.ac.at/)
 
 ----
 
