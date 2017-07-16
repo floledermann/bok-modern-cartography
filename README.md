@@ -12,7 +12,7 @@
 
 "A body of knowledge is the accepted ontology for a specific domain." [[Wikipedia](https://en.wikipedia.org/wiki/Body_of_knowledge)] - so more work on refining the formal aspects may be needed!
 
-Currently, this is only a table of contents - eventually, each topic should be linked to its own page with an overview description of the topic and its key concepts, definitions, resources, bibliography, learning objectives, and links to other fields and related / prerequisite topics. If you want to start with a topic you are familiar with, [go ahead](#how-to-contribute)!
+> Currently, this is only a table of contents - eventually, each topic should be linked to its own page with an overview description of the topic and its key concepts, definitions, resources, bibliography, learning objectives, and links to other fields and related / prerequisite topics. If you want to start with a topic you are familiar with, [go ahead](#how-to-contribute)!
 
 ----
 
