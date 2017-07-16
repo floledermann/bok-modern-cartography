@@ -35,6 +35,7 @@ Currently, this is only a table of contents - eventually, each topic should be l
 - Earth Observation & Satellite Imagery
 - Remote Sensing Technologies
 - Measurement Theory & Statistics
+- Field Research & Qualitative Methods
 - Toponymy
 
 
