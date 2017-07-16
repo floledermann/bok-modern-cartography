@@ -10,7 +10,7 @@
 - Each field should focus on aspects of the *digital*
 - For the start, tend to include more and later on identify topics from other disciplines which are prerequisites for but not core of cartography
 
-"A body of knowledge is the accepted ontology for a specific domain." [[Wikipedia]](https://en.wikipedia.org/wiki/Body_of_knowledge) - so more work on refining the formal aspects may be needed!
+"A body of knowledge is the accepted ontology for a specific domain." [[Wikipedia](https://en.wikipedia.org/wiki/Body_of_knowledge)] - so more work on refining the formal aspects may be needed!
 
 ----
 
