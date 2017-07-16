@@ -41,8 +41,8 @@ Currently, this is only a table of contents - eventually, each topic should be l
 ## Cartographic Data
 
 - Data Formats: Raster, Vector
-- Data Quality
-- Uncertainty
+- Data Quality, Trust & Provenance
+- Uncertainty & Error Propagation
 
 
 ## Cartographic Transformations
