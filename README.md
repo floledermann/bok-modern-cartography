@@ -117,7 +117,7 @@
 
 ## How to contribute
 
-Your participation is needed! To contribute your ideas, you can either [open an issue](https://github.com/floledermann/bok-modern-cartography/issues) or comment on existing ones, [edit](https://github.com/floledermann/bok-modern-cartography/edit/master/README.md) or fork this repository and submit a [pull request](https://github.com/floledermann/bok-modern-cartography/compare) with your changes, or post a link (as an [issue](https://github.com/floledermann/bok-modern-cartography/issues)) to your own version of a cartography BoK.
+Your participation is needed! To contribute your ideas, you can either [open an issue](https://github.com/floledermann/bok-modern-cartography/issues) or comment on existing ones, [edit](https://github.com/floledermann/bok-modern-cartography/edit/master/README.md) or fork this repository and submit a [pull request](https://github.com/floledermann/bok-modern-cartography/compare) with your changes, or post a link (as an [issue](https://github.com/floledermann/bok-modern-cartography/issues)) to your own version of a cartography BoK. You can also email florian.ledermann@tuwien.ac.at with any comments.
 
 ## Links
 
