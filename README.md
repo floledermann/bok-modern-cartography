@@ -44,6 +44,7 @@ Currently, this is only a table of contents - eventually, each topic should be l
 - Data Formats: Raster, Vector
 - Data Quality, Trust & Provenance
 - Uncertainty & Error Propagation
+- Online Data Retrieval (Scraping, Social Media)
 
 
 ## Cartographic Transformations
@@ -104,7 +105,7 @@ Currently, this is only a table of contents - eventually, each topic should be l
 - Digital Map Production Technologies (GIS etc.)
 - Map Production Workflows
 - Spatial Data Infrastructures & Standards, Metadata
-- Big Data Techniques
+- Data Warehousing & Big Data
 - Cartographic Institutions
 
 
