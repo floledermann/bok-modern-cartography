@@ -14,6 +14,8 @@
 
 Currently, this is only a table of contents - eventually, each topic should be linked to its own page with an overview description of the topic and its key concepts, definitions, resources, bibliography, learning objectives, and links to other fields and related / prerequisite topics. If you want to start with a topic you are familiar with, [go ahead](#how-to-contribute)!
 
+***** denotes auxiliary fields, which are key to cartography but rootet in neighbouring disciplines. Topics areas that link to other scientific disciplines are indicated with (-> ...).
+
 ----
 
 # :globe_with_meridians: Contents
@@ -21,8 +23,8 @@ Currently, this is only a table of contents - eventually, each topic should be l
 
 ## Theoretical Underpinnings
 
-- Theories of Space & Spatial Representations
-- Spatial Cognition
+- * Theories of Space & Spatial Representations (-> Philosophy, Psychology, Geography, Mathematics)
+- * Spatial Cognition (-> Cognitive Science)
 - History of Cartography & Cartographic Heritage
 - Cartographic Paradigms & Theories
 - Maps & Power / Critical Cartography
@@ -31,20 +33,21 @@ Currently, this is only a table of contents - eventually, each topic should be l
 
 ## Measuring the Earth
 
-- Geodesy & Spatial Reference Systems
-- Earth Observation & Satellite Imagery
-- Remote Sensing Technologies
-- Measurement Theory & Statistics
-- Field Research & Qualitative Methods
-- Toponymy
+- * Geodesy & Spatial Reference Systems (-> Geodesy)
+- * Earth Observation & Satellite Imagery (-> Remote Sensing)
+- * Remote Sensing Technologies (-> Remote Sensing)
+- * Measurement Theory & Statistics (-> Statistics)
+- * Field Research & Qualitative Methods (-> Geography)
+- * Toponymy (-> ?)
 
 
 ## Cartographic Data
 
-- Data Formats: Raster, Vector
+- * Data Formats: Raster, Vector (-> Geographic Information Science)
+- Spatial & Cartographic Databases (-> Geographic Information Science)
+- Uncertainty & Error Propagation (-> Geographic Information Science)
 - Data Quality, Trust & Provenance
-- Uncertainty & Error Propagation
-- Online Data Retrieval (Scraping, Social Media)
+- * Online Data Retrieval (Scraping, Social Media) (-> Web Engineering)
 
 
 ## Cartographic Transformations
@@ -52,7 +55,7 @@ Currently, this is only a table of contents - eventually, each topic should be l
 - Map Projections
 - Generalisation Foundations
 - Digital Generalisation
-- Classification, Value Scales
+- * Classification, Value Scales (-> Statistics)
 - Scale
 - Symbolization & Visual Variables
 - Thematic Mapping Techniques
@@ -61,25 +64,25 @@ Currently, this is only a table of contents - eventually, each topic should be l
 
 ## Map Design
 
-- Cognitive Foundations of Map Perception
-- Design Basics: Color, Typography, Grids, Visual Hierarchy
+- Cognitive Foundations of Map Perception (-> Cognitive Science)
+- Design Basics: Color, Typography, Grids, Visual Hierarchy (-> Design)
 - Map Layout, Legends & Perimap Design
 - Topographic Maps, Mountain Cartography & Marine Cartography
 - Planetary Cartography
 - Atlas Design
-- Art & Cartography
+- Art & Cartography (-> Visual Arts)
 
 
 ## Media Technology for Cartography
 
-- Visual Media Technologies (Print & Digital Output Media)
-- Foundations of Computer-Generated Graphical Output
-- Web Cartography
-- Mobile & Uniquitous Cartography
-- Sensors & Location Based Services
+- * Visual Media Technologies (Print & Digital Output Media) (-> Printing, Media Informatics)
+- * Foundations of Computer-Generated Graphical Output (-> Computer Graphics)
+- Web Cartography (-> Web Engineering)
+- Mobile & Uniquitous Cartography (-> Uniquitous Computing)
+- Sensors & Location Based Services (-> Uniquitous Computing)
 - Multimedia & Multisensory Spatial Representations
 - Maps for the Blind and Partially Sighted
-- Cartography in Virtual & Augmented Reality
+- Cartography in Virtual & Augmented Reality (-> Computer Graphics)
 
 
 ## Interactive Cartography
@@ -87,15 +90,15 @@ Currently, this is only a table of contents - eventually, each topic should be l
 - Cartographic Animation
 - Geovisualization & Geovisual Analytics
 - Digital Atlases
-- Storytelling & Narrative Maps
+- Storytelling & Narrative Maps (-> Literature Studies)
 - Context-Sensitive Cartography
 
 
 ## Map Use & Applications
 
-- User-Centered Design
-- Map Use & User Studies
-- Sketch Maps, Mental Maps
+- User-Centered Design (-> Design, Interactive Systems)
+- Map Use & User Studies (-> Cognitive Science)
+- Sketch Maps, Mental Maps (-> Cognitive Science)
 - Maps in Crisis Management
 - Military Cartography
 
@@ -105,14 +108,14 @@ Currently, this is only a table of contents - eventually, each topic should be l
 - Digital Map Production Technologies (GIS etc.)
 - Map Production Workflows
 - Spatial Data Infrastructures & Standards, Metadata
-- Data Warehousing & Big Data
+- Data Warehousing & Big Data Technologies (-> Systems Engineering)
 - Cartographic Institutions
 
 
 ## Cartography Outreach & Education
 
 - Cartography and Children
-- Cartographic Education Worldwide
+- Cartographic Education
 - Cartography & Other Disciplines
 
 ----
