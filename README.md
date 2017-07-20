@@ -14,7 +14,7 @@
 
 Currently, this is only a table of contents - eventually, each topic should be linked to its own page with an overview description of the topic and its key concepts, definitions, resources, bibliography, learning objectives, and links to other fields and related / prerequisite topics. If you want to start with a topic you are familiar with, [go ahead](#how-to-contribute)!
 
-***** denotes auxiliary fields, which are key to cartography but rootet in neighbouring disciplines. Topics areas that link to other scientific disciplines are indicated with (-> ...).
+*Cursive* titles denote auxiliary topics, which are key to cartography but rootet in neighbouring disciplines. Topics areas that link to other scientific disciplines are indicated with (-> ...).
 
 ----
 
@@ -23,8 +23,8 @@ Currently, this is only a table of contents - eventually, each topic should be l
 
 ## Theoretical Underpinnings
 
-- * Theories of Space & Spatial Representations (-> Philosophy, Psychology, Geography, Mathematics)
-- * Spatial Cognition (-> Cognitive Science)
+- *Theories of Space & Spatial Representations* (-> Philosophy, Psychology, Geography, Mathematics)
+- *Spatial Cognition* (-> Cognitive Science)
 - History of Cartography & Cartographic Heritage
 - Cartographic Paradigms & Theories
 - Maps & Power / Critical Cartography
@@ -33,21 +33,21 @@ Currently, this is only a table of contents - eventually, each topic should be l
 
 ## Measuring the Earth
 
-- * Geodesy & Spatial Reference Systems (-> Geodesy)
-- * Earth Observation & Satellite Imagery (-> Remote Sensing)
-- * Remote Sensing Technologies (-> Remote Sensing)
-- * Measurement Theory & Statistics (-> Statistics)
-- * Field Research & Qualitative Methods (-> Geography)
-- * Toponymy (-> ?)
+- *Geodesy & Spatial Reference Systems* (-> Geodesy)
+- *Earth Observation & Satellite Imagery* (-> Remote Sensing)
+- *Remote Sensing Technologies* (-> Remote Sensing)
+- *Measurement Theory & Statistics* (-> Statistics)
+- *Field Research & Qualitative Methods* (-> Geography)
+- *Toponymy* (-> ?)
 
 
 ## Cartographic Data
 
-- * Data Formats: Raster, Vector (-> Geographic Information Science)
+- *Data Formats: Raster, Vector* (-> Geographic Information Science)
 - Spatial & Cartographic Databases (-> Geographic Information Science)
 - Uncertainty & Error Propagation (-> Geographic Information Science)
 - Data Quality, Trust & Provenance
-- * Online Data Retrieval (Scraping, Social Media) (-> Web Engineering)
+- *Online Data Retrieval (Scraping, Social Media)* (-> Web Engineering)
 
 
 ## Cartographic Transformations
@@ -55,7 +55,7 @@ Currently, this is only a table of contents - eventually, each topic should be l
 - Map Projections
 - Generalisation Foundations
 - Digital Generalisation
-- * Classification, Value Scales (-> Statistics)
+- *Classification, Value Scales* (-> Statistics)
 - Scale
 - Symbolization & Visual Variables
 - Thematic Mapping Techniques
@@ -75,8 +75,8 @@ Currently, this is only a table of contents - eventually, each topic should be l
 
 ## Media Technology for Cartography
 
-- * Visual Media Technologies (Print & Digital Output Media) (-> Printing, Media Informatics)
-- * Foundations of Computer-Generated Graphical Output (-> Computer Graphics)
+- *Visual Media Technologies (Print & Digital Output Media)* (-> Printing, Media Informatics)
+- *Foundations of Computer-Generated Graphical Output* (-> Computer Graphics)
 - Web Cartography (-> Web Engineering)
 - Mobile & Uniquitous Cartography (-> Uniquitous Computing)
 - Sensors & Location Based Services (-> Uniquitous Computing)
