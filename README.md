@@ -38,7 +38,7 @@ Currently, this is only a table of contents - eventually, each topic should be l
 - *Remote Sensing Technologies* (-> Remote Sensing)
 - *Measurement Theory & Statistics* (-> Statistics)
 - *Field Research & Qualitative Methods* (-> Geography)
-- *Toponymy* (-> ?)
+- *Toponymy* (-> Geography)
 
 
 ## Cartographic Data
