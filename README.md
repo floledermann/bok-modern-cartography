@@ -149,5 +149,5 @@ Florian Ledermann | florian.ledermann@tuwien.ac.at | [@floledermann](http://twit
 
 ----
 
-Licensed [CC-BY](https://creativecommons.org/licenses/by/4.0/) 2017 [Florian Ledermann](http://twitter.com/floledermann)
+Licensed [CC-BY](https://creativecommons.org/licenses/by/4.0/) © 2017 [Florian Ledermann](http://twitter.com/floledermann)
 <!--- & [Contributors](#contributors) --->
