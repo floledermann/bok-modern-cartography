@@ -67,10 +67,18 @@ Currently, this is only a table of contents - eventually, each topic should be l
 - Cognitive Foundations of Map Perception (-> Cognitive Science)
 - Design Basics: Color, Typography, Grids, Visual Hierarchy (-> Design)
 - Map Layout, Legends & Perimap Design
-- Topographic Maps, Mountain Cartography & Marine Cartography
 - Planetary Cartography
 - Atlas Design
 - Art & Cartography (-> Visual Arts)
+
+
+## Specialist Application Fields
+
+- Topographic Maps & Mountain Cartography
+- Marine Cartography
+- Maps in Crisis Management
+- Military Cartography
+- Aviation Cartography
 
 
 ## Media Technology for Cartography
@@ -99,8 +107,6 @@ Currently, this is only a table of contents - eventually, each topic should be l
 - User-Centered Design (-> Design, Interactive Systems)
 - Map Use & User Studies (-> Cognitive Science)
 - Sketch Maps, Mental Maps (-> Cognitive Science)
-- Maps in Crisis Management
-- Military Cartography
 
 
 ## Map Production & Cartographic Information Management
