@@ -139,6 +139,8 @@ Your participation is needed! To contribute your ideas, you can either [open an 
 
 [List of ICA Commissions](http://icaci.org/commissions/)
 
+Inspiration for this: [Spellbook of modern Web Dev](https://github.com/dexteryy/spellbook-of-modern-webdev/blob/master/README.md)
+
 <!---
 ## Contributors
 
