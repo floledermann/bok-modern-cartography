@@ -47,6 +47,7 @@ Currently, this is only a table of contents - eventually, each topic should be l
 - Spatial & Cartographic Databases (-> Geographic Information Science)
 - Uncertainty & Error Propagation (-> Geographic Information Science)
 - Data Quality, Trust & Provenance
+- Volunteered Geographic Information
 - *Online Data Retrieval (Scraping, Social Media)* (-> Web Engineering)
 
 
