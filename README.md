@@ -4,8 +4,8 @@
 ## Preface / Guidelines
 
 - Not a curriculum (but potential basis for curriculum development)
-- No 1:1 mapping of ICA commissions, GIS&T BoK etc. (although informed by these)
 - Entries are not of equal importance & volume, but should identify distinct topics
+- No 1:1 mapping of ICA commissions, GIS&T BoK etc. (although informed by these)
 - Should identify core and related fields, linking to other disciplines / BOKs
 - Each field should focus on aspects of the *digital*
 - For the start, tend to include more and in a flat hierarchy - later on, identify nesting and related topics from other disciplines which are prerequisites for but not core of cartography
@@ -19,7 +19,6 @@ Currently, this is only a table of contents - eventually, each topic should be l
 ----
 
 # :globe_with_meridians: Contents
-
 
 ## Theoretical Underpinnings
 
@@ -73,15 +72,6 @@ Currently, this is only a table of contents - eventually, each topic should be l
 - Art & Cartography (-> Visual Arts)
 
 
-## Specialist Application Fields
-
-- Topographic Maps & Mountain Cartography
-- Marine Cartography
-- Maps in Crisis Management
-- Military Cartography
-- Aviation Cartography
-
-
 ## Media Technology for Cartography
 
 - *Visual Media Technologies (Print & Digital Output Media)* (-> Printing, Media Informatics)
@@ -92,6 +82,15 @@ Currently, this is only a table of contents - eventually, each topic should be l
 - Multimedia & Multisensory Spatial Representations
 - Maps for the Blind and Partially Sighted
 - Cartography in Virtual & Augmented Reality (-> Computer Graphics)
+
+
+## Specialist Application Fields
+
+- Topographic Maps & Mountain Cartography
+- Marine Cartography
+- Maps in Crisis Management
+- Military Cartography
+- Aviation Cartography
 
 
 ## Interactive Cartography
